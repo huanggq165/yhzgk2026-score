@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# 本站为分享链接制站点：页面 URL 必须携带 sharecode 参数，无参数会返回门禁页。
+# 下列 Sitemap 与各页 canonical 均已写成带参数的完整地址。
+
+Sitemap: https://yhzgk2026-score.app.workbuddy.host/sitemap.xml
